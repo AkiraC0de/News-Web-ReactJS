@@ -4,7 +4,7 @@ import Nav from "./Nav"
 
 const SideBar = () => {
   return (
-    <div className="p-6 flex flex-col gap-10">
+    <div className="sticky top-0 p-6 flex flex-col gap-10 ">
         <Logo/>
         <DateAndTime/>
         <Nav/>

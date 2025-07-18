@@ -6,4 +6,5 @@
     --color-gray-text: #a6aec0;
     --color-black-text: #3c3c3c; 
     --font-helvatica: 'Helvetica Neue', sans-serif;
+    --shadow-custom: 0 3px 5px rgba(0,0,0,0.1);
 }
