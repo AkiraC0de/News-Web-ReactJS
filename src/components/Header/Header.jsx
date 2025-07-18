@@ -1,9 +1,9 @@
-import Logo from "./Logo"
+import Logo from "../Logo"
 
 const Header = () => {
   return (
     <div className="p-6">
-        <Logo/>
+        HEADER
     </div>
   )
 }

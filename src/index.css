@@ -3,5 +3,7 @@
 
 @theme{
     --color-primary-red: #cc171f;
+    --color-gray-text: #8c9ea7;
+    --color-black-text: #3c3c3c;
     --font-helvatica: 'Helvetica Neue', sans-serif;
 }
